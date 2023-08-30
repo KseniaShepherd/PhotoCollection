@@ -15,4 +15,3 @@ export const Collection = ({images, name}) => {
 };
 
 export default Collection;
-Ç
